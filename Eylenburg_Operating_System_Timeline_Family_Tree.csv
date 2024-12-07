@@ -17,7 +17,7 @@
 #,UNIX systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 N,UNICS [AT&T/Bell Labs],#FF8585,,1969.9,2002.1,,,Unix,1971.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 N,CB UNIX,#FF8585,UNICS [AT&T/Bell Labs],1978,1981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-N,Xenix [Microsoft],#FF8585,UNICS [AT&T/Bell Labs],1980.8,2015.12,,,SCO XENIX,1984.2,,SCO UNIX,1989,,OpenServer,1995.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+N,Xenix [Microsoft],#FF8585,UNICS [AT&T/Bell Labs],1980.8,2018,,,SCO XENIX,1984.2,,SCO UNIX,1989,,OpenServer,1995.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 N,Trusted Xenix [SCO],#FF8585,Xenix [Microsoft],1991.1,1993.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 N,Sinix [Siemens],#FF8585,Xenix [Microsoft],1984,1995.12,,,Reliant UNIX,1995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 N,MERT,#FF8585,UNICS [AT&T/Bell Labs],1974,1977.12,,,RT,1977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
