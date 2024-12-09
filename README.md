@@ -63,8 +63,8 @@ Example:
 gnuclad Eylenburg_Operating_System_Timeline_Family_Tree.csv Eylenburg_Operating_System_Timeline_Family_Tree.svg Eylenburg_Operating_System_Timeline_Family_Tree.conf
 ````
 
-Sometimes a bug occurs when you try to create the SVG: "X starts after its parent ends". In this just add the year 2100 to the parent's end date.
+Sometimes a bug occurs when you try to create the SVG: "X starts after its parent ends". In this case just add the year 2100 to the parent's end date.
 
 ### Add viewBox attribute for embedding in websites
 
-At the end, edit the SVG in a text editor, and in the `<svg>` tag at the beginning, just below where it says something like `width='2270'` and `height='38240' but before the closing bracket `>`, add a new line saying `viewBox='0 0 2270 38240'`. Make sure the capitalization of `viewBox` is correct and that the width and height are the same numbers as in the lines above. This is needed for embedding the SVG in the website.
+At the end, edit the SVG in a text editor, and in the `<svg>` tag at the beginning, just below where it says something like `width='2270'` and `height='38240'` but before the closing bracket `>`, add a new line saying `viewBox='0 0 2270 38240'`. Make sure the capitalization of `viewBox` is correct and that the width and height are the same numbers as in the lines above. This is needed for embedding the SVG in the website.
