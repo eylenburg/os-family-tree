@@ -26,6 +26,8 @@ You can also use the [official Debian binary](https://launchpad.net/gnuclad/+dow
 
 ### How to edit the .CSV file
 
+The CSV file can be edited with LibreOffice Calc, for example. It is important here that all lines are formatted as text when opening the CSV file in order to prevent, for example, a date from being automatically adjusted. If you open in in Microsoft Excel, make sure to save it as "CSV (Comma delimited") (note there are multiple variants of the CSV format in Excel, you must use this one).
+
 The columns in the CSV file are as follows:
 
 - what the row is about e.g. "N" for a node , or "#" for a comment
@@ -50,12 +52,15 @@ Anything that can run on bare metal. It doesn't need to be fancy; a tiny embedde
 
 
 ### How to create the .SVG file
-The CSV file can be edited with LibreOffice Calc, for example. It is important here that all lines are formatted as text when opening the CSV file in order to prevent, for example, a date from being automatically adjusted. If you open in in Microsoft Excel, make sure to save it as "CSV (Comma delimited") (note there are multiple variants of the CSV format in Excel, you must use this one).
-
 
 Once the changes have been made to the CSV file, the SVG file can be generated with the following command:
 ````
 gnuclad file.csv output.svg config.conf
+````
+
+or for the Flatpak:
+````
+flatpak run net.launchpad.Gnuclad file.csv output.svg config.conf
 ````
 
 Example:
