@@ -68,7 +68,11 @@ Example:
 gnuclad Eylenburg_Operating_System_Timeline_Family_Tree.csv Eylenburg_Operating_System_Timeline_Family_Tree.svg Eylenburg_Operating_System_Timeline_Family_Tree.conf
 ````
 
+### Bugs in Gnuclad
+
 Sometimes a bug occurs when you try to create the SVG: "X starts after its parent ends". In this case just add the year 2100 to the parent's end date.
+
+Sometimes a different bug occurs when you try to create the SVG "Error: X starts before it's parent". This is because another node (completely unrelated) has an empty name, probably on purpose. Replacing that empty cell with a space character will fix the error.
 
 ### Add viewBox attribute for embedding in websites
 
