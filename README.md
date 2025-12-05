@@ -68,6 +68,10 @@ Example:
 gnuclad Eylenburg_Operating_System_Timeline_Family_Tree.csv Eylenburg_Operating_System_Timeline_Family_Tree.svg Eylenburg_Operating_System_Timeline_Family_Tree.conf
 ````
 
+````
+flatpak run net.launchpad.Gnuclad Eylenburg_Operating_System_Timeline_Family_Tree.csv Eylenburg_Operating_System_Timeline_Family_Tree.svg Eylenburg_Operating_System_Timeline_Family_Tree.conf
+````
+
 ### Bugs in Gnuclad
 
 Sometimes a bug occurs when you try to create the SVG: "X starts after its parent ends". In this case just add the year 2100 to the parent's end date.
