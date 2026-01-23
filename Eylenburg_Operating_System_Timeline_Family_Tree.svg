@@ -8116,7 +8116,7 @@ style='opacity:0.6;' >
   <path id='__line_MachTen__[Tenon]' d='M 1163 1975 C 1198.25,1975 1174.75,1885 1210,1885 L 1210 1885 L 1897 1885' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_MachTen__[Tenon])' />
   <path id='__line_Mach386__[mt__Xinu]' d='M 1207 1975 C 1235.5,1975 1216.5,1915 1245,1915 L 1245 1915 L 1342 1915' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_Mach386__[mt__Xinu])' />
   <path id='__line_Lites' d='M 1278 1975 C 1298.25,1975 1284.75,1945 1305,1945 L 1305 1945 L 1417 1945' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_Lites)' />
-  <path id='__line_GNU-Darwin' d='M 1480 2395 C 1498.75,2395 1486.25,2455 1505,2455 L 1505 2455 L 1570 2455' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_GNU-Darwin)' />
+  <path id='__line_GNU-Darwin' d='M 1487 2395 C 1500.5,2395 1491.5,2455 1505,2455 L 1505 2455 L 1570 2455' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_GNU-Darwin)' />
   <path id='__line_xMach' d='M 1360 1975 C 1380.25,1975 1366.75,2005 1387,2005 L 1387 2005 L 1515 2005' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_xMach)' />
   <path id='__line_MacMach' d='M 1220 1975 C 1240.25,1975 1226.75,2005 1247,2005 L 1247 2005 L 1307 2005' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_MacMach)' />
   <path id='__line_Workplace__OS' d='M 1172 1975 C 1200.5,1975 1181.5,2035 1210,2035 L 1210 2035 L 1360 2035' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_Workplace__OS)' />
@@ -8132,10 +8132,10 @@ style='opacity:0.6;' >
   <path id='__line_audioOS__[Apple]' d='M 1995 2215 C 2015.25,2215 2001.75,2245 2022,2245 L 2022 2245 L 2287 2245' stroke='#8B008B' style='stroke-width:4;' />
   <path id='__line_iPhoneOS__[Apple]' d='M 1643 2305 C 1678.25,2305 1654.75,2215 1690,2215 L 1690 2215 L 2287 2215' stroke='#8B008B' style='stroke-width:4;' />
   <path id='__line_Mac__OS__X__Server__10__[Apple]' d='M 1515 2305 C 1515,2305 1515,2335 1515,2335 L 1515 2335 L 1837 2335' stroke='#ae80ae' style='stroke-width:4;' marker-end='url(#__stop_Mac__OS__X__Server__10__[Apple])' />
-  <path id='__line_Mac__OS__X__[Apple]' d='M 1480 2395 C 1506.25,2395 1488.75,2305 1515,2305 L 1515 2305 L 2287 2305' stroke='#8B008B' style='stroke-width:4;' />
+  <path id='__line_Mac__OS__X__[Apple]' d='M 1487 2395 C 1508,2395 1494,2305 1515,2305 L 1515 2305 L 2287 2305' stroke='#8B008B' style='stroke-width:4;' />
   <path id='__line_FreeDarwin' d='M 1638 2395 C 1658.25,2395 1644.75,2365 1665,2365 L 1665 2365 L 1670 2365' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_FreeDarwin)' />
   <path id='__line_DarwinBSD' d='M 1823 2395 C 1843.25,2395 1829.75,2365 1850,2365 L 1850 2365 L 1872 2365' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_DarwinBSD)' />
-  <path id='__line_Darwin__[Apple]' d='M 1413 2215 C 1463.25,2215 1429.75,2395 1480,2395 L 1480 2395 L 2287 2395' stroke='#8B008B' style='stroke-width:4;' />
+  <path id='__line_Darwin__[Apple]' d='M 1420 2215 C 1470.25,2215 1436.75,2395 1487,2395 L 1487 2395 L 2287 2395' stroke='#8B008B' style='stroke-width:4;' />
   <path id='__line_Rhapsody' d='M 1385 2185 C 1405.25,2185 1391.75,2215 1412,2215 L 1412 2215 L 1515 2215' stroke='#ae80ae' style='stroke-width:4;' marker-end='url(#__stop_Rhapsody)' />
   <path id='__line_NeXTSTEP__[NeXT__Computer]' d='M 1012 1975 C 1048,1975 1024,2185 1060,2185 L 1060 2185 L 1560 2185' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_NeXTSTEP__[NeXT__Computer])' />
   <path id='__line_Mach__(kernel)' d='M 877 745 C 978.25,745 910.75,1975 1012,1975 L 1012 1975 L 1387 1975' stroke='#FF8585' style='stroke-width:4;' marker-end='url(#__stop_Mach__(kernel))' />
@@ -9601,7 +9601,7 @@ style='opacity:0.6;' >
     <circle cx='1960' cy='2305' r='5' fill='#8B008B' stroke='none' />
   <circle id='__dot_FreeDarwin' cx='1665' cy='2365' r='10' fill='#FF8585' stroke='none' />
   <circle id='__dot_DarwinBSD' cx='1850' cy='2365' r='10' fill='#FF8585' stroke='none' />
-  <circle id='__dot_Darwin__[Apple]' cx='1480' cy='2395' r='10' fill='#8B008B' stroke='none' />
+  <circle id='__dot_Darwin__[Apple]' cx='1487' cy='2395' r='10' fill='#8B008B' stroke='none' />
   <circle id='__dot_Rhapsody' cx='1412' cy='2215' r='10' fill='#ae80ae' stroke='none' />
     <circle cx='1455' cy='2215' r='5' fill='#ae80ae' stroke='none' />
   <circle id='__dot_NeXTSTEP__[NeXT__Computer]' cx='1060' cy='2185' r='10' fill='#FF8585' stroke='none' />
@@ -11423,8 +11423,8 @@ style='opacity:0.6;' >
   <a xlink:href=''><text x='1675' y='2361'  >FreeDarwin</text></a>
   <rect x='1859' y='2352' width='67' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
   <a xlink:href=''><text x='1860' y='2361'  >DarwinBSD</text></a>
-  <rect x='1489' y='2382' width='89' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
-  <a xlink:href=''><text x='1490' y='2391'  >Darwin [Apple]</text></a>
+  <rect x='1496' y='2382' width='89' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
+  <a xlink:href=''><text x='1497' y='2391'  >Darwin [Apple]</text></a>
   <rect x='1421' y='2202' width='58' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
   <a xlink:href=''><text x='1422' y='2211'  >Rhapsody</text></a>
     <rect x='1486' y='2202' width='122' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
